@@ -1,6 +1,6 @@
 {
-  "name": "ex",
-  "version": "0.1.0",
+  "name": "exchange",
+  "version": "1.0.0",
   "private": true,
   "homepage": "http://PiniShteren.github.io/Exchange",
   "dependencies": {
@@ -8,8 +8,9 @@
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
     "gh-pages": "^3.1.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-lottie": "^1.2.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
